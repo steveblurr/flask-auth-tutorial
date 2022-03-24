@@ -11,7 +11,7 @@ Clone repo, but before launching the Flask app
 export FLASK_APP=project 
 export FLASK_DEBUG=1
 ```
-The commands run on the terminal will allow Flask to launch the web server under the project directory which contains our app.
+These commands when ran on the terminal will allow Flask to launch the web server under the project directory which contains our app.
 
 ```
 flask run
